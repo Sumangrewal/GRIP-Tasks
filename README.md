@@ -6,3 +6,6 @@ Task #2 is the regression task in which the percentage score of the student is p
 
 
 Task #3 is the exploration of unsupervised Machine Learning. We can  use  clustering methods such as K-Means Clustering, Agglomerative Hierarchical clustering , Mean Shift Clustering , Expectation–Maximization (EM) Clustering using Gaussian Mixture Models (GMM) , etc. Here K Means Clustering is used. The number of optimum clusters is found alongwith the data visualization. 
+
+
+Task #4 is the exploration of decision tree algorithm. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. The data is visually represented using Graphviz.
